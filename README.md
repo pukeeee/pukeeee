@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pukeeee](https://github.com/pukeeee)
-
 - 📫 How to reach me **daniilreznichenko@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
