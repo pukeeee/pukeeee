@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">As an ambitious and dedicated QA Engineer, I am deeply committed to continuous learning and development in the IT field. My meticulous attention to detail ensures that I consistently deliver high-quality results. I am always eager to take on new challenges, expand my expertise, and contribute to the improvement and growth of the product. My goal is to positively influence product development and drive both personal and professional growth.</p>
+<p align="left">Experienced QA engineer diving deeper into Python and automation. Passionate about developing chatbots and planning to expand into web development and machine learning. Continuously learning and building innovative solutions to tackle real-world challenges.</p>
 
 ###
 
